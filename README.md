@@ -65,6 +65,10 @@ If done successfully you should see the following .jar files listed in the *.min
 **Link:** https://www.curseforge.com/minecraft/mc-mods/netherportalfix \
 **Description:** keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. The 1:8 ratio remains, portals just get smarter and remember where you came from.
 
+#### -Shogi-
+**Link:** https://www.curseforge.com/minecraft/mc-mods/shogi
+**Description:** This is a library mod that adds a rule-based effect system for use in Minecraft mods. Its most notable use is Waystones.
+
 #### -Smart Backpacks-
 **Link:** https://www.curseforge.com/minecraft/mc-mods/smart-backpacks \
 **Description:** Smart Backpacks adds upgradeable portable storage backpacks to Minecraft, giving you a flexible inventory system that can grow from simple early-game storage into advanced automation, fluid, energy, and utility setups.
@@ -89,3 +93,4 @@ If done successfully you should see the following .jar files listed in the *.min
 
 - NetherPortalFix --> Balm 
 - Waystones --> Balm 
+- Waystones --> Shogi
