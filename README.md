@@ -43,6 +43,16 @@ If done successfully you should see the following .jar files listed in the *.min
 - waystones-fabric-26.2-26.2.0.3.jar
 ------------------------------------------------------------------------------
 
+## **Trouble Shooting**
+
+> [!NOTE]
+> I DONT SEE THE AppData folder!!
+This can happen if you do not have "show invisibile folders enabled on windows.
+1. Open a Windows File Explorer
+2. Navigate with the menu on top to "View"
+3. In the section labeled "Show/Hide" make sure the check box next to "Hidden items" is checked.
+------------------------------------------------------------------------------
+
 ### **Mod List (Client Side/ User):**
 
 #### -Balm-
