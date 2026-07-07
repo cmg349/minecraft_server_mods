@@ -1,4 +1,4 @@
-# Mine Craft Mods Red Render Server *(We havent named it)*
+# Mine Craft Mods Red Render Server
 
 mods for minecraft server 
 
