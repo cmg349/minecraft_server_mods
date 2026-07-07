@@ -17,22 +17,24 @@ mods for minecraft server
 ------------------------------------------------------------------------------
 ## **How to install mods locally.**
 
+> [!NOTE]
+> If you have Minecraft installed on a drive ither than C:, the paths int he instructions will not work for you.  You will ahve to find where Minecraft is installed and locate your "mod" folder
+
+### Windows OS
 1. Download packaged mods from this github repo
 2. Click the file "minecraft_server_mod_package.zip"
 3. In the top right next to the .zip file name click the "..." menu button
 4. Select "Download"
 5. When the .zip file finishes downloading it should be found in your Windows "Download" folder.
-6. Nvigate to the "Download" folder.
+6. Navigate to the "Download" folder.
 7. Right click on the "minecraft_server_mod_package.zip" folder and select "Extract All.."
 8. Click "Browse"
 9. Navigate to: *C:\Users\<YOUR USERNAME>\AppData\Roaming\.minecraft\mods*
 10. Click "Select Folder" once at the above location.
 11. Click "Extract" to extract the .jar files from the downloaded package to the *.minecraft\mods* folder location.
 
-> [!NOTE]
-> "< YOUR USERNAME >" is a variable place holder and should be replaced with your local Windows Username
 
-If done successfully you should see the following .jar files listed in the *.minecraft\mods* folder:
+If done successfully you should see the following .jar files listed in the *\mods* folder:
 
 - balm-fabric-26.2-26.2.0.2.jar
 - fabric-api-0.154.2+26.2.jar
@@ -41,6 +43,24 @@ If done successfully you should see the following .jar files listed in the *.min
 - netherportalfix-fabric-26.2-26.2.0.1.jar
 - smartbackpacks-1.0.0-fabric-26.2.jar
 - waystones-fabric-26.2-26.2.0.3.jar
+
+
+## Cursed Forge on Windows
+1. Download packaged mods from this github repo
+2. Click the file "minecraft_server_mod_package.zip"
+3. In the top right next to the .zip file name click the "..." menu button
+4. Select "Download"
+5. When the .zip file finishes downloading it should be found in your Windows "Download" folder.
+6. Navigate to the "Download" folder.
+7. Right click on the "minecraft_server_mod_package.zip" folder and select "Extract All.."
+8. Click "Browse"
+9. Navigate to: *C:\Users\<YOUR USERNAME>\curseforge\minecraft\Instances\minecraft\mods*
+10. Click "Select Folder" once at the above location.
+11. Click "Extract" to extract the .jar files from the downloaded package to the *.minecraft\mods* folder location.
+
+
+> [!NOTE]
+> "< YOUR USERNAME >" is a variable place holder and should be replaced with your local Windows Username
 ------------------------------------------------------------------------------
 
 ## **Trouble Shooting**
@@ -51,6 +71,21 @@ This can happen if you do not have "show invisibile folders enabled on windows.
 1. Open a Windows File Explorer
 2. Navigate with the menu on top to "View"
 3. In the section labeled "Show/Hide" make sure the check box next to "Hidden items" is checked.
+
+> [!NOTE]
+> Zip wont open or says its empty
+If you are having issue with the normal download instructions.
+1. On Github, after clicking on the .zip file, there should be a "View Raw" button of blue text.
+2. Click this and you should be able to download the files with this method IF the original method is not working.
+
+> [!NOTE]
+> I don't see a "mods" folder in ".minecraft"
+If you have never installed mods before this folder might not exist.
+1. Right click on a blank area of your windows explorer window inside the ".minecraft" folder
+2. select New>Folder
+3. Name your new folder "mods"
+4. you can now add your mods to this new folder
+
 ------------------------------------------------------------------------------
 
 ### **Mod List (Client Side/ User):**
