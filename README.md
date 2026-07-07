@@ -18,12 +18,19 @@ mods for minecraft server
 ## **How to install mods locally.**
 
 1. Download packaged mods from this github repo
-2. If using Windows OS, navigate to:
- - *C:\Users\<YOUR USERNAME>\AppData\Roaming\.minecraft\mods*
-3. Extract the .jar files from the downloaded package to the above file location.
+2. Click the file "minecraft_server_mod_package.zip"
+3. In the top right next to the .zip file name click the "..." menu button
+4. Select "Download"
+5. When the .zip file finishes downloading it should be found in your Windows "Download" folder.
+6. Nvigate to the "Download" folder.
+7. Right click on the "minecraft_server_mod_package.zip" folder and select "Extract All.."
+8. Click "Browse"
+9. Navigate to: *C:\Users\<YOUR USERNAME>\AppData\Roaming\.minecraft\mods*
+10. Click "Select Folder" once at the above location.
+11. Click "Extract" to extract the .jar files from the downloaded package to the *.minecraft\mods* folder location.
 
 > [!NOTE]
-> <YOUR USERNAME> is a variable place holder and should be replaced with your local Windows Username
+> "< YOUR USERNAME >" is a variable place holder and should be replaced with your local Windows Username
 
 If done successfully you should see the following .jar files listed in the *.minecraft\mods* folder:
 
