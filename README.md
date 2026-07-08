@@ -12,13 +12,13 @@ mods for minecraft server
 - Server Type: Fabric
 
 > [!WARNING]
-> These mods will ahve to be installed locally to access the server. Without the mods installed locally the server will refuse the connection from the given user without them.
+> These mods will have to be installed locally to access the server. Without the mods installed locally the server will refuse the connection from the given user without them.
 
 ------------------------------------------------------------------------------
 ## **How to install mods locally.**
 
 > [!NOTE]
-> If you have Minecraft installed on a drive ither than C:, the paths int he instructions will not work for you.  You will ahve to find where Minecraft is installed and locate your "mod" folder
+> If you have Minecraft installed on a drive other than "C:", the file paths in the instructions will not work for you.  You will have to find where Minecraft is installed and locate your "mod" folder
 
 ### Windows OS
 1. Download packaged mods from this github repo
