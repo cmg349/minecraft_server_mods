@@ -20,6 +20,9 @@ mods for minecraft server
 > [!NOTE]
 > If you have Minecraft installed on a drive other than "C:", the file paths in the instructions will not work for you.  You will have to find where Minecraft is installed and locate your "mod" folder
 
+> [!NOTE]
+> If you have already installed these mods previously, and are re-downloading to get the most recent mods, you can choose to just replace or skip the conflicting mods that windows prompts you with "file already exists or is already found at"
+
 ### Windows OS
 1. Download packaged mods from this github repo
 2. Click the file "minecraft_server_mod_package.zip"
@@ -37,12 +40,15 @@ mods for minecraft server
 If done successfully you should see the following .jar files listed in the *\mods* folder:
 
 - balm-fabric-26.2-26.2.0.2.jar
+- enchantments-expansion-1.2.0-[26.2].jar
 - fabric-api-0.154.2+26.2.jar
 - Jade-mc26.2-Fabric-26.2.9.jar
+- jei-26.2-fabric-30.7.0.41.jar
 - NaturesCompass-26.2-2.5.1-fabric.jar
 - netherportalfix-fabric-26.2-26.2.0.1.jar
 - smartbackpacks-1.0.0-fabric-26.2.jar
 - waystones-fabric-26.2-26.2.0.3.jar
+- xaerominimap-fabric-26.2-26.2.0.jar
 
 
 ## Cursed Forge on Windows
@@ -94,6 +100,10 @@ If you have never installed mods before this folder might not exist.
 **Link:** https://www.curseforge.com/minecraft/mc-mods/balm \
 **Description:** Balm is a library mod for mod developers that simplifies the process of creating multi-loader mods by providing common interfaces and events and removing the need for most mod-loader specific code. *(This is a support mod for other mods)*
 
+#### -Enchantment Expansion-
+**Link:** https://www.curseforge.com/minecraft/mc-mods/enchantments-expansion \
+**Description:** New vanilla-friendly enchantments, expanding the gameplay progression for tools, weapons, armor, shields, bows, pickaxes, axes, leggings, chestplates, boots and helmets.
+
 #### -Fabric API- 
 **Link:** https://www.curseforge.com/minecraft/mc-mods/fabric-api \
 **Description:** Fabric API is the core library for the most common hooks and inter-compatibility measures utilized by mods using the Fabric toolchain.  *(This is a support mod for other mods)*
@@ -101,6 +111,10 @@ If you have never installed mods before this folder might not exist.
 #### -Jade-  
 **Link:** https://www.curseforge.com/minecraft/mc-mods/jade \
 **Description:** Jade is the information HUD mod for modern Minecraft versions. Designed for better user experience and API.
+
+#### -JEI-  
+**Link:** https://www.curseforge.com/minecraft/mc-mods/jei \
+**Description:** JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
 
 #### -Nature's Compass- 
 **Link:** https://www.curseforge.com/minecraft/mc-mods/natures-compass \
@@ -122,6 +136,9 @@ If you have never installed mods before this folder might not exist.
 **Link:** https://www.curseforge.com/minecraft/mc-mods/waystones \
 **Description:** This mod adds waystone blocks that the player can return to once they've been activated, either through a Warp Scroll, a rechargeable Warp Stone, or by using an existing waystone to hop from one to the other.
 
+#### -Xaero's Mini Map-  
+**Link:** https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap \
+**Description:** Displays the nearby world terrain, players, mobs, entities in the corner of your screen.
 
 
 
