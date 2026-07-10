@@ -14,6 +14,11 @@ mods for minecraft server
 > [!WARNING]
 > These mods will have to be installed locally to access the server. Without the mods installed locally the server will refuse the connection from the given user without them.
 
+> [!WARNING]
+> If you have not or do not have Fabric API installed for your Minecraft Launcher you will need to get that & install it here: https://fabricmc.net/use/installer/
+> Simply Download and Install and it will find your launcher and set itself up.  this allows you to use mods, specifically Fabric mods. If done successfully you will have
+> a drop down option in your Minecraft Lanucher to select "fabric-loader-26.2" directly to the left of the "Play" button.  When you play on the server you will use "fabric-loader-26.2" as the game version.
+
 ------------------------------------------------------------------------------
 ## **How to install mods locally.**
 
