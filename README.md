@@ -20,6 +20,14 @@ mods for minecraft server
 > a drop down option in your Minecraft Lanucher to select "fabric-loader-26.2" directly to the left of the "Play" button.  When you play on the server you will use "fabric-loader-26.2" as the game version.
 
 ------------------------------------------------------------------------------
+## TLDR Check List to Access the Server
+- [ ] Minecraft version 26.2 (Java)
+- [ ] Fabric Installation for Minecraft Launcher (Installed)
+- [ ] Location of my .minecraft/mods folders
+- [ ] Mod list downloaded and added to the Minecraft "mods" folder
+- [ ] Server Address (Request or get from Discord)
+
+------------------------------------------------------------------------------
 ## **How to install mods locally.**
 
 > [!NOTE]
@@ -27,6 +35,15 @@ mods for minecraft server
 
 > [!NOTE]
 > If you have already installed these mods previously, and are re-downloading to get the most recent mods, you can choose to just replace or skip the conflicting mods that windows prompts you with "file already exists or is already found at"
+
+### Finding my "mods" folder
+1. Open you Minecraft Lanucher (What you run to click the green "PLAY" button)
+2. In the top menu bar you will see "Play" "Installations" "Realms" ... etc; Click "Installations"
+3. You should see an item that says "fabric-loader-26.2", If not please see the second WARNING at the top, then return here.
+4. To the right of the "fabric-loader-26.2" item you should see a green "Play" button and a folder icon next to it, Click the folder icon.
+5. This will bring you to your .minecraft folder. **(Save this file path as you will need to access it later)**
+6. Here you should see a "mods" folder.
+7. IF you do NOT see or have a "mods" folder you can manually create it.  This is where we will put all the mods for the server you will need.
 
 ### Windows OS
 1. Download packaged mods from this github repo
