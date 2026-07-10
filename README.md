@@ -54,7 +54,7 @@ mods for minecraft server
 6. Navigate to the "Download" folder.
 7. Right click on the "minecraft_server_mod_package.zip" folder and select "Extract All.."
 8. Click "Browse"
-9. Navigate to: *C:\Users\<YOUR USERNAME>\AppData\Roaming\.minecraft\mods*
+9. Navigate to: *C:\Users\<YOUR USERNAME>\AppData\Roaming\.minecraft\mods*  OR your specific file path for your .minecraft/mods folder (See above "Finding my mods folder")
 10. Click "Select Folder" once at the above location.
 11. Click "Extract" to extract the .jar files from the downloaded package to the *.minecraft\mods* folder location.
 
@@ -82,7 +82,7 @@ If done successfully you should see the following .jar files listed in the *\mod
 6. Navigate to the "Download" folder.
 7. Right click on the "minecraft_server_mod_package.zip" folder and select "Extract All.."
 8. Click "Browse"
-9. Navigate to: *C:\Users\<YOUR USERNAME>\curseforge\minecraft\Instances\minecraft\mods*
+9. Navigate to: *C:\Users\<YOUR USERNAME>\curseforge\minecraft\Instances\minecraft\mods*  OR your specific file path for your .minecraft/mods folder (See above "Finding my mods folder")
 10. Click "Select Folder" once at the above location.
 11. Click "Extract" to extract the .jar files from the downloaded package to the *.minecraft\mods* folder location.
 
@@ -114,6 +114,12 @@ If you have never installed mods before this folder might not exist.
 3. Name your new folder "mods"
 4. you can now add your mods to this new folder
 
+> [!NOTE]
+> I installed the mods to the mods folder but I'm seeing "Miney Map" when I select multiplayer in Minecraft.
+So you downloaded the mods, put them in the right spot, loaded up Minecraft version 26.2 Java edition but now this!?
+1. You might have skipped or missed an important step in the set up Fabic Launcher install.
+2. See the second WARNING at the top of the README.md and make sure you have that installed.
+3. Once installed restart Minecraft and you should be good to go.
 ------------------------------------------------------------------------------
 
 ### **Mod List (Client Side/ User):**
